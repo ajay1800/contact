@@ -2,7 +2,7 @@
   "name": "contact-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ajay1800.github.io/contact",
+  "homepage": "http://ajay1800.github.io/contact/contact",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@tanstack/react-query": "^4.29.7",
